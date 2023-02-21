@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shalini
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning artifical intelligence.
-- 💞️ I’m looking to collaborate on data science project
+- 💞️ I’m looking to collaborate on data science project.
 - 📫 How to reach me @shalini.cst@gmail.com
 
 <!---
